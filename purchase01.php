@@ -3,7 +3,6 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Purchase</title>
-/#########Javascript#############/
 <style type= "text/css">
 
 #invalid_1
@@ -203,7 +202,6 @@ if (x==null || x=="")
   
   }
 </script>
-/######################################################################################/
 </head>
 
 <body>
